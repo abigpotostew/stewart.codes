@@ -8,5 +8,6 @@ fi
 hexo generate
 git add .
 git commit -am "AutoDeploy: $0 - $1"
+git pull -q
 git push
 hexo deploy
