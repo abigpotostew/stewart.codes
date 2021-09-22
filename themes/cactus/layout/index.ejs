@@ -31,6 +31,7 @@
   <% } %>
 </section>
 
+<% if (theme.posts_overview.enabled) { %>
 <section id="writing">
   <span class="h1"><a href="<%- url_for("archives") %>"><%= __('index.articles') %></a></span>
   <% if (theme.tags_overview && site.tags.length) { %>
@@ -58,6 +59,7 @@
     <%- partial('_partial/pagination') %>
   <% } %>
 </section>
+<% } %>
 
 <% if (site.data.projects) { %>
 <section id="projects">

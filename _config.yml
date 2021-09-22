@@ -5,7 +5,7 @@
 # Site
 title: Stewart Bracken
 subtitle: Club
-description: Stewart Bracken's Blob
+description: 
 keywords: stewart, bracken, stewart bracken, stew, blog, personal website, personal, developer blog, game design
 author: Stewart Bracken
 language: en
@@ -13,7 +13,7 @@ timezone: US/Pacific
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://stewartbracken.club
+url: https://stewart.codes
 root: /
 permalink: posts/:title/
 permalink_defaults:
@@ -79,8 +79,9 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
+theme_config:
+#theme: Acetolog
 theme: cactus
-#theme_config:
 
 deploy:
   type: git
