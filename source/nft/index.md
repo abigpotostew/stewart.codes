@@ -23,5 +23,5 @@ Available on [Zora](https://zora.co/stewart/4698)
 Available on [Zora](https://zora.co/stewart/4867)
 
 ### EVM Exhaust
-[{% img  /images/nft/evm-exhaust.png 512 512 '"EVM Exhaust" "EVM Exhaust"' %}](https://zora.co/stewart/4867)
+[{% img  /images/nft/evm-exhaust.png 512 512 '"EVM Exhaust" "EVM Exhaust"' %}](https://zora.co/stewart/5347)
 Available on [Zora](https://zora.co/stewart/5347)
