@@ -25,3 +25,17 @@ Available on [Zora](https://zora.co/stewart/4867)
 ### EVM Exhaust
 [{% img  /images/nft/evm-exhaust.png 512 512 '"EVM Exhaust" "EVM Exhaust"' %}](https://zora.co/stewart/5347)
 Available on [Zora](https://zora.co/stewart/5347)
+
+### Rainbow Void Bridge
+My first Solana NFT!
+[{% img  /images/nft/rainbow-void-bridge-thumb.png 512 512 '"Rainbow Void Bridge" "Rainbow Void Bridge"' %}](https://solsea.io/nft/5wBGzQureaARhkC9Nfe4TpXB75U1of3VirkXsuVT4eCD)
+Available on [Solsea](https://solsea.io/nft/5wBGzQureaARhkC9Nfe4TpXB75U1of3VirkXsuVT4eCD)
+
+### Equipartition
+Dropping on Zora soon
+[{% img  /images/nft/equipartition.jpg 512 512 '"Equipartition" "Equipartition"' %}](#)
+
+Equipartition, 2021
+Ascending glowing spheres emerge from a viscous medium that seems to resist the rise of the spheres. The spheres also resist their own ascension by dancing upwards in unifying trepidation by merging and bobbing along their journey in a wild combination of colors.
+Edition 1 of 1.
+1080 x 1080 24s "perfect" loop silent video. 35 MB MP4.
