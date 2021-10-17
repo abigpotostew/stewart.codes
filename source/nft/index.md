@@ -32,8 +32,8 @@ My first Solana NFT!
 Available on [Solsea](https://solsea.io/nft/5wBGzQureaARhkC9Nfe4TpXB75U1of3VirkXsuVT4eCD)
 
 ### Equipartition
-Dropping on Zora soon
-[{% img  /images/nft/equipartition.jpg 512 512 '"Equipartition" "Equipartition"' %}](#)
+Available on [Zora](https://zora.co/collections/zora/5687)
+[{% img  /images/nft/equipartition.jpg 512 512 '"Equipartition" "Equipartition"' %}](https://zora.co/collections/zora/5687)
 
 Equipartition, 2021
 Ascending glowing spheres emerge from a viscous medium that seems to resist the rise of the spheres. The spheres also resist their own ascension by dancing upwards in unifying trepidation by merging and bobbing along their journey in a wild combination of colors.
