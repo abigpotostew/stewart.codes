@@ -1,11 +1,11 @@
 {
-  "description": "yes yes", 
-  "external_url": "https://stewart.codes/images/nft", 
-  "image": "https://stewart.codes/images/nft/equipartition.jpg", 
+  "description": "yes yes",
+  "external_url": "https://stewart.codes/images/nft",
+  "image": "https://stewart.codes/images/nft/equipartition.jpg",
  "animation_url": "https://zora-dev.mypinata.cloud/ipfs/bafybeicw6omo6dguzhodbciptdxoycw4n4a2xnvgwsdg4mibbrp7rsrwu4",
   "name": "Equipartition",
   "attributes": [ {
-      "trait_type": "All", 
+      "trait_type": "All",
       "value": "Sky Magic"
-    },  ], 
+    }  ]
 }
