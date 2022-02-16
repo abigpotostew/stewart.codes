@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>Single Edition NFTs by Me</title>
+      <link href="/posts/NFTs/"/>
+      <url>/posts/NFTs/</url>
+      
+        <content type="html"><![CDATA[<p>Check out my digital art on my <a href="/nft">NFT page</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Sabbatical Art</title>
       <link href="/posts/Sabbatical-Art/"/>
       <url>/posts/Sabbatical-Art/</url>
@@ -269,7 +282,7 @@
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[<p>I am Stewart Bracken and I do programming professionally. I specialize in backend matters such as rest API, persistence, and aws cloud architecture in golang. I also enjoy running, reading, cooking, and making art.</p><p><img src="/images/min-and-me-coding-1000.jpg"></p><p>thanks for stopping by.</p>]]></content>
+        <content type="html"><![CDATA[<p>Stewart Bracken is a programmer and multimedia artist based in Oakland.</p><!-- ![](/images/min-and-me-coding-1000.jpg) --><p>thanks for stopping by.</p>]]></content>
       
     </entry>
     
@@ -313,7 +326,7 @@
       <link href="/nft/index.html"/>
       <url>/nft/index.html</url>
       
-        <content type="html"><![CDATA[<h2 id="NFTs-by-Stewart"><a href="#NFTs-by-Stewart" class="headerlink" title="NFTs by Stewart"></a>NFTs by Stewart</h2><p>Original single edition digital art by Stewart Bracken.</p><h3 id="Musica-Universalis"><a href="#Musica-Universalis" class="headerlink" title="Musica Universalis"></a>Musica Universalis</h3><p><a href="https://zora.co/stewart/4316"><img src="/images/nft/musica-universalis.png" class="" width="512" height="512" title="Musica Universalis" alt="Musica Universalis"></a></p><h3 id="Hidden-Spheres"><a href="#Hidden-Spheres" class="headerlink" title="Hidden Spheres"></a>Hidden Spheres</h3><h4 id="Dropping-Soon"><a href="#Dropping-Soon" class="headerlink" title="Dropping Soon"></a>Dropping Soon</h4><img src="/images/nft/hidden-sphere02.png" class="" width="512" height="512" title="Hidden Spheres" alt="Hidden Spheres">]]></content>
+        <content type="html"><![CDATA[<h2 id="NFTs-by-Stewart-aka-skymagic-eth"><a href="#NFTs-by-Stewart-aka-skymagic-eth" class="headerlink" title="NFTs by Stewart aka skymagic.eth"></a>NFTs by Stewart aka skymagic.eth</h2><p>Original single edition digital art by Stewart Bracken.</p><p>Each of these pieces are rendered using a GLSL fragment shader. The videos produced are “perfect” loops– they can be played seamlessly on repeat.</p><p>I hope you enjoy these as much as I enjoyed making them.</p><h3 id="Musica-Universalis"><a href="#Musica-Universalis" class="headerlink" title="Musica Universalis"></a>Musica Universalis</h3><p><a href="https://zora.co/stewart/4316"><img src="/images/nft/musica-universalis.png" class="" width="512" height="512" title="Musica Universalis" alt="Musica Universalis"></a><br>Sold</p><h3 id="Hyperion"><a href="#Hyperion" class="headerlink" title="Hyperion"></a>Hyperion</h3><p><a href="https://zora.co/stewart/4698"><img src="/images/nft/hyperion.png" class="" width="512" height="512" title="Hyperion" alt="Hyperion"></a><br>Available on <a href="https://zora.co/stewart/4698">Zora</a></p><h3 id="Elemental-Contingency"><a href="#Elemental-Contingency" class="headerlink" title="Elemental Contingency"></a>Elemental Contingency</h3><p><a href="https://zora.co/stewart/4867"><img src="/images/nft/elemental-contingency.png" class="" width="512" height="512" title="Elemental Contingency" alt="Elemental Contingency"></a><br>Available on <a href="https://zora.co/stewart/4867">Zora</a></p><h3 id="EVM-Exhaust"><a href="#EVM-Exhaust" class="headerlink" title="EVM Exhaust"></a>EVM Exhaust</h3><p><a href="https://zora.co/stewart/5347"><img src="/images/nft/evm-exhaust.png" class="" width="512" height="512" title="EVM Exhaust" alt="EVM Exhaust"></a><br>Available on <a href="https://zora.co/stewart/5347">Zora</a></p><h3 id="Rainbow-Void-Bridge"><a href="#Rainbow-Void-Bridge" class="headerlink" title="Rainbow Void Bridge"></a>Rainbow Void Bridge</h3><p>My first Solana NFT!<br><a href="https://solsea.io/nft/5wBGzQureaARhkC9Nfe4TpXB75U1of3VirkXsuVT4eCD"><img src="/images/nft/rainbow-void-bridge-thumb.png" class="" width="512" height="512" title="Rainbow Void Bridge" alt="Rainbow Void Bridge"></a><br>Available on <a href="https://solsea.io/nft/5wBGzQureaARhkC9Nfe4TpXB75U1of3VirkXsuVT4eCD">Solsea</a></p><h3 id="Equipartition"><a href="#Equipartition" class="headerlink" title="Equipartition"></a>Equipartition</h3><p>Available on <a href="https://zora.co/collections/zora/5687">Zora</a><br><a href="https://zora.co/collections/zora/5687"><img src="/images/nft/equipartition.jpg" class="" width="512" height="512" title="Equipartition" alt="Equipartition"></a></p><p>Equipartition, 2021<br>Ascending glowing spheres emerge from a viscous medium that seems to resist the rise of the spheres. The spheres also resist their own ascension by dancing upwards in unifying trepidation by merging and bobbing along their journey in a wild combination of colors.<br>Edition 1 of 1.<br>1080 x 1080 24s “perfect” loop silent video. 35 MB MP4.</p>]]></content>
       
     </entry>
     
@@ -325,6 +338,28 @@
       <url>/art/index.html</url>
       
         <content type="html"><![CDATA[<p>Digital art:<br><a href="https://www.instagram.com/p/COXKnLCBy_d/">https://www.instagram.com/p/COXKnLCBy_d/</a></p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/nft/skymagic/1.json"/>
+      <url>/nft/skymagic/1.json</url>
+      
+        <content type="html"><![CDATA[{"description":"yes yes","external_url":"https://stewart.codes/images/nft","image":"https://stewart.codes/images/nft/equipartition.jpg","animation_url":"https://zora-dev.mypinata.cloud/ipfs/bafybeicw6omo6dguzhodbciptdxoycw4n4a2xnvgwsdg4mibbrp7rsrwu4","name":"Equipartition","attributes":[{"trait_type":"All","value":"Sky Magic"}]}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hyperion</title>
+      <link href="/Hyperion/index.html"/>
+      <url>/Hyperion/index.html</url>
+      
+        <content type="html"><![CDATA[<p>Hyperion is a generative art series studying electric color, shape,<br>color<br>movement<br>each nft is unique world of movement<br>dynamic generative art<br>full screen<br>any resolution<br>smooth movement high framerate</p>]]></content>
       
     </entry>
     
