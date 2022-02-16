@@ -278,6 +278,17 @@
     
     
     <entry>
+      <title>Hyperion</title>
+      <link href="/Hyperion/index.html"/>
+      <url>/Hyperion/index.html</url>
+      
+        <content type="html"><![CDATA[<p>Hyperion is a generative art series studying electric color, shape,<br>color<br>movement<br>each nft is unique world of movement<br>dynamic generative art<br>full screen<br>any resolution<br>smooth movement high framerate</p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>about</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
@@ -338,6 +349,17 @@
       <url>/test-page/index.html</url>
       
         <content type="html"><![CDATA[<p>this is a new page</p><p>with some new content</p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/nft/skymagic/1.json"/>
+      <url>/nft/skymagic/1.json</url>
+      
+        <content type="html"><![CDATA[{"description":"yes yes","external_url":"https://stewart.codes/images/nft","image":"https://stewart.codes/images/nft/equipartition.jpg","animation_url":"https://zora-dev.mypinata.cloud/ipfs/bafybeicw6omo6dguzhodbciptdxoycw4n4a2xnvgwsdg4mibbrp7rsrwu4","name":"Equipartition","attributes":[{"trait_type":"All","value":"Sky Magic"}]}]]></content>
       
     </entry>
     
