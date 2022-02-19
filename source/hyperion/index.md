@@ -16,13 +16,17 @@ Hyperion is a collection of 1024 unique NFTs each containing a 4K image render a
 
 ---
 
+{% img  /images/hyperion/1.png 512 512 '"Hyperion #1" "Hyperion #1"' %}
+
+---
+
 In live view, each NFT will dynamically change resolution so that the NFT experience is viewed at the best frame rate possible in order to achieve the highest quality movement. 
 Click fullscreen or press ‘F’ to view in full screen.
 Click HD or press ‘G’ to disable dynamic resolution and render at native resolution (This feature is highly demanding and will require an accelerated graphics machine.)
 
 ---
 
-{% img  /images/hyperion/1.png 512 512 '"Hyperion #1" "Hyperion #1"' %}
+A note on the genesis mint on Stargaze: because Stargaze will only support image NFTs upon launch, Stargaze will not display animations. However, every NFT purchase automatically includes the animation! The NFT still image displayed on the marketplace will contain a QR code linking to the NFT animation.
 
 ---
 
@@ -35,7 +39,3 @@ Click HD or press ‘G’ to disable dynamic resolution and render at native res
 ---
 
 {% img  /images/hyperion/4.png 512 512 '"Hyperion #4" "Hyperion #4"' %}
-
----
-
-A note on the genesis mint on Stargaze: because Stargaze will only support image NFTs on launch, Hyperion cannot have the animations displayed on the site. Instead I have added QR codes to the images that bring the viewer to the NFT animation.
