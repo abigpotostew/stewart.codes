@@ -3,5 +3,10 @@
        "name":"NFTs",
        "url":"/nft",
        "desc":"Original generative art by me."
+    },
+    {
+       "name":"Hyperion on Stargaze Marketplace Genesis Mint",
+       "url":"/hyperion",
+       "desc":"Original generative art by me."
     }
 ]

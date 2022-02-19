@@ -16,11 +16,11 @@ Sold
 
 ### Hyperion
 [{% img  /images/nft/hyperion.png 512 512 '"Hyperion" "Hyperion"' %}](https://zora.co/stewart/4698)
-Available on [Zora](https://zora.co/stewart/4698)
+Sold [Zora](https://zora.co/stewart/4698)
 
 ### Elemental Contingency
 [{% img  /images/nft/elemental-contingency.png 512 512 '"Elemental Contingency" "Elemental Contingency"' %}](https://zora.co/stewart/4867)
-Available on [Zora](https://zora.co/stewart/4867)
+Sold [Zora](https://zora.co/stewart/4867)
 
 ### EVM Exhaust
 [{% img  /images/nft/evm-exhaust.png 512 512 '"EVM Exhaust" "EVM Exhaust"' %}](https://zora.co/stewart/5347)
