@@ -8,11 +8,22 @@ date: 2022-02-14 21:28:19
 ---
 ---
 
-Hyperion is a multi-dimensional exploration of complex movement in generative art, created entirely with code. It is inspired by the infinite resolution of movement— from atoms, to cells, to planetary maneuvers: every point in time is unique. Hyperion, too, captures spectrums of texture and color with mathematical precision rendered in real time. Collectors and viewers experience the NFT in motion, rendered in any resolution, in real time.
+Hyperion is a multidimensional exploration of complex movement in generative art, created entirely with code. It is inspired by the infinite resolution of movement— from atoms, to cells, to planetary maneuvers: every point in time is unique. Hyperion, too, captures spectrums of texture and color with mathematical precision rendered in real time. Collectors and viewers experience the NFT in motion, rendered in any resolution.
+
+10% of mint proceeds will be donated to Alameda County Food Bank and Youth Spirit Artworks.
 
 Hyperion is a collection of 1024 unique NFTs each containing a 4K image render and a 'live view' real time WebGL animation.
 
 [Demo](https://stewart.codes/static/hyperion-demo/)
+
+---
+
+### Roadmap:
+1. March 4: Mint Day!
+2. Build in HTML NFT support into Stargaze platform. That means your existing Hyperion NFTs will render the Live view in the marketplace.
+3. Build an artblocks style platform for Stargaze.
+4. Make more art :)
+
 
 ---
 
