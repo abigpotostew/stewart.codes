@@ -1,7 +1,11 @@
 title: Helio
 date: 2022-09-06 13:12:15
 ---
-{% img  anim.gif 985 558 '"Helio" "Helio"' %}
+{% img /helio/anim.gif 985 558 '"Helio" "Helio"' %}
+
+---
+
+Project Page: https://publicworks.art/work/helio
 
 ---
 
