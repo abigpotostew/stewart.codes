@@ -8,5 +8,10 @@
        "name":"Hyperion",
        "url":"/hyperion",
        "desc":"Stargaze NFT Marketplace Genesis Mint"
+    },
+    {
+       "name":"Helio",
+       "url":"/helio",
+       "desc":"A PublicWorks.art generative collection"
     }
 ]
