@@ -10,6 +10,7 @@ date: 2022-10-18 22:52:00
 ---
 Helio is my favorite and most expressive generative work yet with ambitious goals to display in realtime at large resolutions and print at super large scale. In my mind, the project succeeded on both accounts. The animation can be displayed on almost any device at any resolution. Only on high density displays over at resolutions well over 4k does the framerate begin to drop below 60. And the webapp is able to print out super high resolution still frames that can be used for print. For the prints below, I created prints at 300 dpi for panels up to 7 feet.
 
+
 ----
 
 {% imgsb sb-gallery-image /images/helio/helio-print-smallest.jpeg 375 452 '"Wall Print 01" "Wall Print 01"' %}
@@ -86,4 +87,28 @@ Using @iquilezles https://iquilezles.org/articles/palettes/ generative color pal
 
 ----
 
-The foreground builds on top of the background.
+The foreground builds on top of the background. The background is black in the following images. By masking pixels that are outside of a certain angle from the origin, shapes are achieved. These different mix styles are seen in trait.
+
+{% imgsb sb-gallery-image /images/helio/process-03-01.png 375 250 '"Process 03 01" "Process 03 01"' %}
+
+{% imgsb sb-gallery-image /images/helio/process-03-02.png 375 250 '"Process 03 02" "Process 03 02"' %}
+
+
+{% imgsb sb-gallery-image /images/helio/process-03-03.png 375 250 '"Process 03 03" "Process 03 03"' %}
+
+
+----
+
+Adding together with the background and modulating the angle by a trait, interesting symmetric patterns are discovered.
+
+{% imgsb sb-gallery-image /images/helio/process-04-01.png 375 250 '"Process 04 01" "Process 04 01"' %}
+
+{% imgsb sb-gallery-image /images/helio/process-04-02.png 375 250 '"Process 04 02" "Process 04 02"' %}
+
+----
+
+For the same structure, a different color palette produces a unique image.
+{% imgsb sb-gallery-image /images/helio/process-04-04.png 375 250 '"Process 04 04" "Process 04 04"' %}
+
+
+----

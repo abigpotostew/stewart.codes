@@ -15,7 +15,8 @@ timezone: US/Pacific
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://stewart.codes
 root: /
-permalink: posts/:title/
+permalink: posts/:year/:month/:day/:title/
+  #posts/:title/
 permalink_defaults:
 pretty_urls:
   trailing_index: false
