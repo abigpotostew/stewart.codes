@@ -12,28 +12,41 @@ I hope you enjoy these as much as I enjoyed making them.
 
 
 ### Musica Universalis
+
 [![Musica Universalis](/images/nft/musica-universalis.png)](https://zora.co/stewart/4316)
+
 Sold
 
 ### Hyperion
+
 [![Hyperion](/images/nft/hyperion.png)](https://zora.co/stewart/4698)
+
 Sold [Zora](https://zora.co/stewart/4698)
 
 ### Elemental Contingency
+
 [![Elemental Contingency](/images/nft/elemental-contingency.png)](https://zora.co/stewart/4867)
+
 Sold [Zora](https://zora.co/stewart/4867)
 
 ### EVM Exhaust
+
 [![EVM Exhaust](/images/nft/evm-exhaust.png)](https://zora.co/stewart/5347)
+
 Available on [Zora](https://zora.co/stewart/5347)
 
 ### Rainbow Void Bridge
+
 My first Solana NFT!
+
 [![Rainbow Void Bridge](/images/nft/rainbow-void-bridge-thumb.png)](https://solsea.io/nft/5wBGzQureaARhkC9Nfe4TpXB75U1of3VirkXsuVT4eCD)
+
 Available on [Solsea](https://solsea.io/nft/5wBGzQureaARhkC9Nfe4TpXB75U1of3VirkXsuVT4eCD)
 
 ### Equipartition
+
 Sold [Zora](https://zora.co/collections/zora/5687)
+
 [![Equipartition](/images/nft/equipartition.jpg)](https://zora.co/collections/zora/5687)
 
 Equipartition, 2021
