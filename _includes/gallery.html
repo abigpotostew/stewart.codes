@@ -1,0 +1,16 @@
+{% if page.photos %}
+{% for photo in page.photos %}
+    {% cycle 'add row' : '<div class="row">', '', '' %}
+        <div class="column column-33">
+            <div class="preview-panel">
+                <a href="{{ photo | prepend: site.baseurl }}">
+                    <img alt="gallery photo" src="{{ photo }}">
+
+
+                </a>
+           </div>
+        </div>
+{% cycle 'end row' : '', '', '</div>' %}
+{% endfor %}
+{% cycle 'end row' : '', '</div>', '</div>' %}
+{% endif %}

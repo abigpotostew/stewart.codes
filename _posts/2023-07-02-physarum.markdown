@@ -1,0 +1,13 @@
+---
+title: Physarum
+author: Stewart Bracken
+date: 2023-07-02 10:46:46
+tags:
+  - genart
+  - tumblr
+preview: /images/physarum-preview.jpg
+photos:
+  - /images/physarum.png
+---
+
+Using compute shaders 

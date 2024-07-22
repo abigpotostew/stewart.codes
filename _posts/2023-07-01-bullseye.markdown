@@ -1,0 +1,13 @@
+---
+title: Exquisite Bullseye
+author: Stewart Bracken
+date: 2023-07-01 10:46:46
+tags:
+  - genart
+  - tumblr
+preview: /images/bullseye-preview.jpeg
+photos:
+  - /images/bullseye.jpeg
+---
+
+Here's a project I'm building for Burning man 2023, Animalia. This is a rotational drawing canvas. Participants can draw on the boards and rotate to align them with different drawing from the other sections. More to come.
