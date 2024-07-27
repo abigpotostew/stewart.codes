@@ -55,6 +55,15 @@
 /**
  * Misc
  */
+:root {
+    --tw-ring-color: $color-primary;
+    --tw-ring-offset-width: 0px;
+    --tw-ring-offset-color: #fff;
+    --tw-ring-inset: inset;
+
+}
+
+
 .preview-panel {
     padding: 1rem;
     box-sizing: border-box;
@@ -62,8 +71,8 @@
     
     &:hover {
         border: 1px solid $grey-color-light;
-
-        @apply --ring;
+        //box-shadow: var(--tw-ring-inset) 0 0 0 calc(3px + var(--tw-ring-offset-width)) var(--tw-ring-color);
+        box-shadow: 0px 0px 0px 3px var(--tw-ring-color);
     }
 
 }
