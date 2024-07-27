@@ -62,8 +62,17 @@
     
     &:hover {
         border: 1px solid $grey-color-light;
+
+        @apply --ring;
     }
+
 }
 
 // align images in posts to center
 .post p:has(img) { text-align: center; }
+
+
+
+// tailwind stuff
+
+
