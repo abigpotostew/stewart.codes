@@ -16,3 +16,5 @@ $grey-color-dark:  darken($grey-color, 25%);
         "layout"
 ;
 
+// align images in posts to center
+.post p:has(img) { text-align: center; }
