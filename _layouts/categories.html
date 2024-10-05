@@ -7,11 +7,12 @@ layout: default
     <h1 class="post-title">{{ page.title }}</h1>
   </header>
 
-  <section class="post-content">
+  <article class="post-content">
 
     {% for tag in site.tags %}
+    <section class="tag-section">
       <h3>{{ tag[0] }}</h3>
-      <ul>
+
         {% for post in tag[1] %}
           {% cycle 'add row' : '<div class="row">', '', '' %}
             <div class="column column-33">
@@ -26,10 +27,10 @@ layout: default
           {% cycle 'end row' : '', '', '</div>' %}
           {% endfor %}
           {% cycle 'end row' : '', '</div>', '</div>' %}
+    </section>
 
-      </ul>
     {% endfor %}
 
-  </section>
+  </article>
 
 </div>
