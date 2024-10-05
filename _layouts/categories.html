@@ -14,6 +14,7 @@ layout: default
     <h3>{{ tag[0] }}</h3>
     <ul>
       {% for post in tag[1] %}
+
       {% cycle 'add row' : '<div class="row">', '', '' %}
       <div class="column column-33">
         <div class="preview-panel">
@@ -29,10 +30,9 @@ layout: default
       {% cycle 'end row' : '', '</div>', '</div>' %}
 
 
-      {% endfor %}
+
+{% endfor %}
     </ul>
-
-
 
 
 {% endfor %}
