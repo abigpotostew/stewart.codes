@@ -77,12 +77,22 @@
         //box-shadow: 0px 0px 0px $color-primary;
         box-shadow: 0px 0px 0px .2rem rgba(red($color-primary),green($color-primary),blue($color-primary), .5);
     }
-
 }
 
 // align images in posts to center
 .post p:has(img) { text-align: center; }
 
+
+.w-full {
+    width: 100%;
+}
+.aspect-square {
+    aspect-ratio: 1 / 1;
+}
+
+.border-0 {
+    border: 0;
+}
 
 
 // tailwind stuff
