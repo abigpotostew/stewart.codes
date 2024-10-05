@@ -10,7 +10,7 @@ layout: default
   <section class="post-content">
 
     {% for tag in site.tags %}
-    {% include preview-categories.html tag=tag %}
+    {% include preview-categories.html tag=tag[0] %}
     {% endfor %}
 
   </section>
