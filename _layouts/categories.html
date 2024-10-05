@@ -10,32 +10,25 @@ layout: default
   <section class="post-content">
 
     {% for tag in site.tags %}
+      <h3>{{ tag[0] }}</h3>
+      <ul>
+        {% for post in tag[1] %}
+          {% cycle 'add row' : '<div class="row">', '', '' %}
+            <div class="column column-33">
+              <div class="preview-panel">
+                <a href="{{ post.url | prepend: site.baseurl }}">
+                  <img src="{{ post.preview }}">
 
-    <h3>{{ tag[0] }}</h3>
-    <ul>
-      {% for post in tag[1] %}
+                  <div class="post-title">{{ post.title }}</div>
+                </a>
+              </div>
+            </div>
+          {% cycle 'end row' : '', '', '</div>' %}
+          {% endfor %}
+          {% cycle 'end row' : '', '</div>', '</div>' %}
 
-      {% cycle 'add row' : '<div class="row">', '', '' %}
-      <div class="column column-33">
-        <div class="preview-panel">
-          <a href="{{ post.url | prepend: site.baseurl }}">
-            <img src="{{ post.preview }}">
-
-            <div class="post-title">{{ post.title }}</div>
-          </a>
-        </div>
-      </div>
-      {% cycle 'end row' : '', '', '</div>' %}
-      {% endfor %}
-      {% cycle 'end row' : '', '</div>', '</div>' %}
-
-
-
-{% endfor %}
-    </ul>
-
-
-{% endfor %}
+      </ul>
+    {% endfor %}
 
   </section>
 
