@@ -1,4 +1,6 @@
-{% assign posts_with_tag = site.posts | group_by: include.tag %}
+<!--{% assign posts_with_tag = site.posts | group_by: "tag" %}-->
+{% assign posts_with_tag = site.posts | where_exp: "post", "post.tags contains include.tag" %}
+<!--{% for post in game_posts limit:10 %}-->
 
 {% for post in posts_with_tag %}
     {% cycle 'add row' : '<div class="row">', '', '' %}
