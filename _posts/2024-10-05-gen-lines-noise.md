@@ -14,6 +14,9 @@ tags: live code
 
 Live code:
 
+Usage:
+- Press space to generate a new image.
+
 <iframe class="w-full aspect-square border-0"  src="/static/gen-lines-noise?hash=1DE7F21A421CE152038A1CB714544D5A69D1C7CDA17A7E183E0D533BDD40BFC8" />
 
 
