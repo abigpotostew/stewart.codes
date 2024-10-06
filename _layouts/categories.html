@@ -9,9 +9,19 @@ layout: default
 
   <article class="post-content">
 
+      <section>
+        <h2>Categories</h2>
+        <ul>
+          {% for tag in site.tags %}
+            <li><a href="#{{ tag[0] | escape_once }}">{{ tag[0] }}</a></li>
+          {% endfor %}
+        </ul>
+      </section>
+
+
     {% for tag in site.tags %}
     <section class="tag-section">
-      <h3>{{ tag[0] }}</h3>
+      <h3 id="{{ tag[0] | escape_once }}">{{ tag[0] }}</h3>
 <div class="d-grid-gallery">
         {% for post in tag[1] %}
             <div >
